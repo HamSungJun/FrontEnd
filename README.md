@@ -31,13 +31,13 @@ Alt + C	Check/Uncheck task list item
 &nbsp; - Learn the basics and how to write semantic HTML.  
 &nbsp; - Dividing Page into sections and how to structure the DOM properly.  
 &nbsp; - Make at least 5 HTML pages (focus on structure)  
-<br>
+
 2. Basics of CSS  
 &nbsp; - Learn the basics of CSS.  
 &nbsp; - Learn how to use Grid and Flexbox.  
 &nbsp; - Media Queries and Responsive Websites.  
 &nbsp; - Style the HTML Pages that you made in last step  
-<br>
+
 3. Basics of JavaScript  
 &nbsp; - Learn the syntax and basic constructs.  
 &nbsp; - Learn how to manipulate DOM.  
