@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Semantic Html</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+    <section>
+
+        <header>
+            <h1>시맨틱 HTML 이란?</h1>
+        </header>
+
+        <hr>
+
+        <nav>
+            <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">reference_1</a>
+            <a href="https://medium.com/@soeunlee/%EC%8B%9C%EB%A7%A8%ED%8B%B1%ED%95%98%EA%B2%8C-html%EC%9D%84-%EC%A7%A0%EB%8B%A4%EB%8A%94-%EA%B2%83-90612ffc988e">reference_2</a>
+        </nav>
+
+        <p>시맨틱이란 언어속에서의 구절과 단어에 대한 의미를 연구하는 학문이다.</p>
+
+        <p>시맨틱 요소는 의미를 가진 요소를 뜻한다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>시맨틱 요소란?</h2>
+        </header>
+
+        <p>시맨틱 요소는 브라우저와 개발자 모두에게 요소 자신의 확실한 의미를 표현한다.</p>
+
+        <p>비 의미론적 요소 : &lt;div&gt; 와 &lt;span&gt; 과 같은 태그 요소들은 자신이 담고있는 내용에 대해 어떤 의미론적 표현이 없다.</p>
+
+        <p>의미론적 요소 : &lt;form&gt; , &lt;table&gt; , &lt;article&gt; 과 같은 태그 요소들은 자신이 담고있는 내용을 의미론적으로 분명히 표현한다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>Browser Support</h2>
+        </header>
+
+        <p>HTML5의 시맨틱 요소들은 현대의 모든 브라우저에서 지원이 되고 있습니다.</p>
+        <p>추가적으로, 기존의 시맨틱 요소를 지원하지 않는 구형 브라우저에게 시맨틱 요소를 가르쳐서 사용할 수도 있습니다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>HTML5의 새로운 시맨틱 요소들</h2>
+        </header>
+
+        <p>많은 웹 사이트에서는 다음과 같은 HTML코드를 가지고 있습니다. </p>
+        <p>&lt;div id="nav"&gt; &lt;div class="header"&gt; &lt;div id="footer"&gt;&lt;/div&gt;&lt;/p&gt; 이것은 태그의 class 속성에 의미를
+            부여하는 방법입니다.
+        </p>
+
+        <p>HTML5에서는 다음과 같은 새로운 시맨틱 요소들을 제공하며 웹페이지의 각각의 파트를 표현하는데에 이용됩니다.</p>
+
+        <ul>
+            <li>&lt;article&gt;</li>
+            <li>&lt;aside&gt;</li>
+            <li>&lt;details&gt;</li>
+            <li>&lt;figure&gt;</li>
+            <li>&lt;footer&gt;</li>
+            <li>&lt;header&gt;</li>
+            <li>&lt;main&gt;</li>
+            <li>&lt;mark&gt;</li>
+            <li>&lt;nav&gt;</li>
+            <li>&lt;section&gt;</li>
+            <li>&lt;summary&gt;</li>
+            <li>&lt;time&gt;</li>
+        </ul>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>HTML5 &lt;section&gt; Element</h2>
+        </header>
+
+        <p>&lt;section&gt; 시맨틱 요소는 웹 페이지 문서의 section을 의미합니다.</p>
+
+        <p>W3C의 HTML 문서 : 섹션은 일반적으로 제목(heading)이 있는 주제별 콘텐츠 그룹입니다.</p>
+
+        <p>홈 페이지는 섹션 요소를 통해 소개 , 내용 , 컨택트 부분으로 나뉘어 집니다.</p>
+
+        <p>섹션 요소의 자식요소는 반드시 최소 하나의 제목 요소를 가져야 합니다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>HTML5 &lt;article&gt; Element</h2>
+        </header>
+
+        <p>&lt;article&gt; 시맨틱 요소는 웹 페이지 문서내에서 독립적이고 , 자기만의 내용을 담고있는 부분을 의미합니다.</p>
+
+        <p>article 요소는 그 하나로써 이해가 되어야 하고 웹 페이지의 나머지 부분과는 되도록 또다른 내용으로 존재해야 합니다.</p>
+
+        <p>아티클 요소의 자식 요소는 반드시 최소 하나의 제목 요소를 가져야 합니다.</p>
+
+        <p>아티클 태그 내부에 섹션 태그가 존재해도 되고 그 역도 가능합니다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>HTML5 &lt;header&gt; Element</h2>
+        </header>
+
+        <p>&lt;header&gt; 시맨틱 요소는 웹 문서 혹은 섹션의 헤더를 의미합니다.</p>
+
+        <p>헤더 요소는 어떤 컨테이너의 소개 내용으로 사용되어야 합니다.</p>
+
+        <p>웹 다큐먼트 내부에 여러 헤더 요소가 존재하는 것은 문제가 되지 않습니다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>HTML5 &lt;footer&gt; Element</h2>
+        </header>
+
+        <p>&lt;footer&gt; 시맨틱 요소는 웹 문서 혹은 섹션의 footer를 의미합니다.</p>
+
+        <p>footer 요소는 전형적으로 웹 페이지 제작자 , 저작권 정보 , 컨택트 정보 등을 담고 있습니다.</p>
+
+        <p>웹 다큐먼트 내부에 여러 footer 요소가 존재하는 것은 문제가 되지 않습니다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>HTML5 &lt;nav&gt; Element</h2>
+        </header>
+
+        <p>&lt;nav&gt; 시맨틱 요소는 다른 웹페이지로 이동하기 위한 네비게이션 링크들을 의미합니다.</p>
+
+        <p>nav 태그 내부에 꼭 모든 네비게이션 링크가 존재해야 할 필요는 없습니다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>HTML5 &lt;aside&gt; Element</h2>
+        </header>
+
+        <p>&lt;nav&gt; 시맨틱 요소는 다른 웹페이지로 이동하기 위한 네비게이션 링크들을 의미합니다.</p>
+
+        <p>nav 태그 내부에 꼭 모든 네비게이션 링크가 존재해야 할 필요는 없습니다.</p>
+
+        <p>웹 다큐먼트 내부에 여러 footer 요소가 존재하는 것은 문제가 되지 않습니다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>HTML5 &lt;figure&gt; Element</h2>
+        </header>
+
+        <p>&lt;figure&gt; 시맨틱 요소의 목적은 시각적 설명을 더하기 위함입니다.</p>
+
+        <p>HTML5 에서는 이미지와 캡션을 figure 태그를 통해 그룹핑 될 수 있습니다.</p>
+
+    </section>
+
+    <hr>
+
+    <section>
+
+        <header>
+            <h2>시맨틱 태그를 이용하는 이유?</h2>
+        </header>
+
+        <p>과거 HTML4 시절, 개발자들은 그들만의 아이디와 클래스에 의미를 부여하여 웹 페이지를 제작하곤 했습니다.</p>
+
+        <p>이것은 검색 엔진이 웹 페이지의 내용을 확인하기 어럽게 만들었고 HTML5의 시맨틱 태그의 등장으로 그것을 용이하게 하였습니다.</p>
+
+    </section>
+
+    <hr>
+
+    <footer>
+
+        <section>
+            <h3>Author</h3>
+            <p>Created By HSJPRIME</p>
+        </section>
+
+    </footer>
+</body>
+
+</html>
