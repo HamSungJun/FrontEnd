@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Grid Layout auto-fill</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+        window.onload = function () {
+
+            var HTTP = new XMLHttpRequest();
+            const HTTP_MOVIE_URL = 'https://pixabay.com/api?key=5265020-b129e0842f414ced9114d5de5';
+
+            HTTP.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+
+                    let RES_ARRAY = JSON.parse(this.responseText);
+                    console.log(RES_ARRAY);
+                    Grid_Listing(RES_ARRAY);
+
+                }
+            }
+
+            HTTP.open('GET', HTTP_MOVIE_URL, true);
+            HTTP.send();
+        }
+
+        function Grid_Listing(RES_ARRAY) {
+        
+        let GRID_CONTAINER = document.getElementById('GRID_CONTAINER');    
+        
+        RES_ARRAY.hits.forEach( (element) => {
+            let Image_Card_Container = document.createElement('div');
+            Image_Card_Container.setAttribute('class','Image-Card-Container');
+
+            let Image_Card_Header = document.createElement('div');
+            Image_Card_Header.setAttribute('class','Image-Card-Header');
+
+            let Header_User = document.createElement('h1');
+            let Header_Tags = document.createElement('h2');
+
+            let Image_Card_Content = document.createElement('div');
+            Image_Card_Content.setAttribute('class' , 'Image-Card-Content');
+            let Content_Image = document.createElement('img');
+            
+            Header_User.textContent = element.user;
+            Header_Tags.textContent = element.tags;
+
+            Image_Card_Header.appendChild(Header_User);
+            Image_Card_Header.appendChild(Header_Tags);
+
+            Content_Image.setAttribute('src',element.webformatURL);
+            Content_Image.setAttribute('alt','pixabay_img');
+
+            Image_Card_Content.appendChild(Content_Image);
+
+            Image_Card_Container.appendChild(Image_Card_Header);
+            Image_Card_Container.appendChild(Image_Card_Content);
+
+            GRID_CONTAINER.appendChild(Image_Card_Container);
+        });
+        }
+    </script>
+    <style>
+        /* auto-fill 속성과 repeat , minmax 함수를 통해서
+        Device Width와 그리드 레이아웃 내부의 컨텐츠의 개수의 변동에 따라
+        자동적으로 레이아웃이 구성되도록 설정한다. */
+
+        .Grid-Wrapper {
+            padding: 30px;
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-auto-rows: 300px;
+            grid-row-gap: 10px;
+            grid-column-gap: 10px;
+        }
+
+        .Image-Card-Container {
+            border: 1px solid gray;
+            text-align: center;
+            box-shadow: 5px 5px 5px gray;
+        }
+        .Image-Card-Container , .Image-Card-Content img{
+            border-bottom-left-radius: 12px;
+            border-bottom-right-radius: 12px;
+        }
+        
+        .Image-Card-Header{
+            display: flex;
+            flex-direction: column;
+            justify-content: space-evenly;
+            width: 100%;
+            height : 100px;
+        }
+        .Image-Card-Header h1 , .Image-Card-Header h2 {
+            width: 100%;
+            margin : 0px;
+        }
+        .Image-Card-Header h1{
+            font-size : 24px;
+        }
+        .Image-Card-Header h2{
+            font-size : 18px;
+        }
+        .Image-Card-Content {
+            width: 100%;
+            height : 200px
+        }
+        .Image-Card-Content img{
+            width : 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="GRID_CONTAINER" class="Grid-Wrapper">
+         
+    </div>
+</body>
+
+</html>
