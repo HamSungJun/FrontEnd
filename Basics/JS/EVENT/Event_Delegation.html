@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Delegation</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script>
+        window.onload = () => {
+
+            /*
+                이벤트 위임 : 자식요소 개별로 이벤트 핸들러를 추가해야 할때 부모가 그룹핑된 자식요소 혹은 동적으로 생성되는 자식요소에 대해 이벤트 핸들링을 책임지고
+                분기처리만 해주면 되기때문에 자식요소의 이벤트 핸들러 등록과정을 없애고 메모리 효율을 높일 수 있다.
+            */
+
+            let wrapper = document.querySelector('.wrapper');
+            wrapper.addEventListener('click',(e)=>{
+                alert(e.target.innerText);
+            })
+        }
+    </script>
+</head>
+<body>
+    <div class="wrapper">
+        <div>One</div>
+        <div>Two</div>
+        <div>Three</div>
+    </div>
+</body>
+</html>
