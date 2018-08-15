@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>ECMA Script 6</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="../../../Code_Highlight/prism.css">
+    <script src="../../../Code_Highlight/prism.js"></script>
+    <style>
+        @import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Noto Sans KR', sans-serif;
+            letter-spacing: 0.05vw;
+        }
+
+        html,
+        body {
+            width: 100%;
+            height: auto;
+            background-color: antiquewhite;
+        }
+
+        hr {
+            margin: 20px 0px 20px 0px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        h2 {
+            margin-bottom: 20px;
+        }
+        section{
+            margin-bottom: 20px;
+        }
+
+        @media (min-width: 684px) {
+            .wrapper {
+                background-color: white;
+                border-radius: 12px;
+                margin: 30px auto;
+                padding: 30px;
+                width: 80%;
+                box-shadow: 5px 5px 10px gray;
+            }
+            .Code-Grid {
+                display: grid;
+                width: 100%;
+                grid-template-columns: repeat(auto-fit, minmax(470px, 1fr));
+                grid-column-gap: 20px;
+            }
+        }
+        @media(max-width : 684px){
+            html,body{
+                background-color: white;
+            }
+            .wrapper {
+                background-color: white;
+                padding: 30px;
+                width: 100%;
+            }
+            .Code-Grid {
+                display: grid;
+                width: 100%;
+                grid-template-columns: repeat(auto-fit, minmax(80%, 1fr));
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <h1>ECMA Script6 핵심 변경점.</h1>
+        </header>
+
+        <hr>
+
+        <section>
+            <h2>1. 선언과 대입방식에서의 변경</h2>
+
+            <p>기존 단순 'var' 형 변수로 모든 데이터 자료형을 대입하던 방식에서 'let'과 'const' 변수형을 도입하였다. let 변수형에는 값이 변동되거나 상수가 아닌 데이터를 대입하고 const
+                변수형에는 값이 변동되지 않는 상수를 대입한다.</p>
+
+            <div class="Code-Grid">
+                <div class="Code-Item">
+                    <pre><code class="language-javascript">    var ES5 = 5;
+    ES5 = 6;
+
+    var url = "https://developer.mozilla.org/ko/";</code></pre>
+                </div>
+
+                <div class="Code-Item">
+                    <pre><code class="language-javascript">    let ES6 = 6;
+    ES6 = 7;
+
+    const url = "https://developer.mozilla.org/ko/";</code></pre>
+                </div>
+            </div>
+        </section>
+
+        <section>
+                <h2>2. 화살표 함수 (Arrow Function)추가.</h2>
+
+                <p>기존 function (){}의 형태에서 () => {} 의 형태로 사용하도록 권장한다. </p>
+    
+                <div class="Code-Grid">
+                    <div class="Code-Item">
+                        <pre><code class="language-javascript">    function adder( a, b ){
+        return a + b;
+    }</code></pre>
+                    </div>
+    
+                    <div class="Code-Item">
+                        <pre><code class="language-javascript">    (a,b) => {
+        return a+b;
+    }</code></pre>
+                    </div>
+                </div>
+        </section>
+
+        <section>
+                <h2>3. for..in 과 for..of</h2>
+
+                <p>for..in 반복문의 경우 객체의 속성에 대하여 사용하는 반복문이며 모든 객체에서 사용이 가능합니다. 그러나 객체의 키값에만 접근할 뿐 객체의 값에는 직접적으로 접근할 수 없습니다. 또 자바스크립트 Array , Object는 숨겨진 내부적인 속성을 가지고 있으나 이 for..in 반복문은 해당 속성에는 접근하지 못합니다.</p>
+
+                <p>for..of 반복문의 열거 가능한 속성이 존재하는 객체라면 전부 이용 할 수 있습니다. Array , Map , Set , Object 등. 이 반복분은 처음 반복부터 객체의 value에 접근합니다. JSON타입의 객체의 경우 Object.keys(obj) 와 같이 이용하여 순회가능합니다. 객체가 Symbol이 아니면 에러가 발생합니다.</p>
+    
+                <div class="Code-Grid">
+                    <div class="Code-Item">
+                        <pre><code class="language-javascript">/* for..in 반복문 */
+
+    let obj = {
+        a : 1,
+        b : 2,
+        c : 3
+    }
+
+    for(let key in obj){
+        console.log(key + " , " + obj[key]);
+    }
+
+//a , 1
+//b , 2
+//c , 3
+                        </code></pre>
+                    </div>
+    
+                    <div class="Code-Item">
+                        <pre><code class="language-javascript">/* for..of 반복문 */
+                            
+    let obj = {
+        a : 1,
+        b : 2,
+        c : 3
+    }
+
+    for(let variable of Object.keys(obj)){
+        console.log(variable);
+    }
+
+//a
+//b
+//c
+                        </code></pre>
+                    </div>
+                </div>
+        </section>
+
+        <section>
+                <h2>4. 기본 파라미터 값 설정.</h2>
+    
+                <p>ES6에 들어와서 함수를 이용할때 파라미터의 값이 할당되지 않으면 기본 파라미터의 값으로 설정하는 구문이 추가되었습니다. 이것을 통해 값이 들어왔는지 확인하고 존재 유무에 따라 기본값을 설정하는 로직을 설정하지 않아도 되겠군요.</p>
+    
+                <div class="Code-Grid">
+                    <div class="Code-Item">
+                        <pre><code class="language-javascript">    function Name_Generator(target , keyword = 'Generated_'){
+
+        return keyword.concat(target);
+
+    }
+
+    console.log(Name_Generator('Sung Jun'));
+    //'Generated_Sung Jun'
+
+    console.log(Name_Generator('Sung Jun','Ham '));
+    //'Ham Sung Jun'
+
+                        </code></pre>
+                    </div>
+                </div>
+        </section>
+    </div>
+</body>
+
+</html>
