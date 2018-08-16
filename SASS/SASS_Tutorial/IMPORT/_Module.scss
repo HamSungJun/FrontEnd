@@ -1,0 +1,9 @@
+// scss 파일명 맨 앞에 _언더바 표기를 해놓으면 sass는 해당 파일을 모듈로 인식한다.
+
+html,
+body,
+ul,
+ol {
+  margin:  0;
+  padding: 0;
+}

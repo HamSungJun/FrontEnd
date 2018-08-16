@@ -1,0 +1,8 @@
+// base.scss
+// 모듈 표기된 파일명 이름을 명시하여준다.
+@import 'Module';
+
+body {
+  font: 100% Helvetica, sans-serif;
+  background-color: #efefef;
+}
