@@ -3,6 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/FrontEnd_HighLEV/Samples/spare-parts/chat-meteor/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/FrontEnd_HighLEV/Samples/spare-parts/rock-paper-scissors-es5/.meteor/local" />
+      <excludeFolder url="file://$MODULE_DIR$/FrontEnd_HighLEV/Samples/spare-parts/rock-paper-scissors/.meteor/local" />
       <excludeFolder url="file://$MODULE_DIR$/temp" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>

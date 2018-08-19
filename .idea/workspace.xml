@@ -1,7 +1,1111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03d0fdc3-aa37-422c-8f70-2aaabadb7368" name="Default" comment="" />
+    <list default="true" id="03d0fdc3-aa37-422c-8f70-2aaabadb7368" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/FrontEnd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FrontEnd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/G/Context.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/G/LegacyContext.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/G/LifecycleEvent.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/G/StrictMode.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/G/createRef.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/G/forwardRef.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch01/hello-world/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch01/hello-world/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch01/hello-world/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-js-world/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-js-world/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-js-world/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-js-world/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-world-class/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-world-class/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-world-class/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-world-class/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-world-nested/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-world-nested/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch02/hello-world-nested/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-js-world-jsx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-js-world-jsx/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-js-world-jsx/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-js-world-jsx/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-js-world-jsx/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-class-jsx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-class-jsx/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-class-jsx/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-class-jsx/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-class-jsx/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-jsx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-jsx/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-jsx/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-jsx/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world-jsx/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/hello-world/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/method/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/method/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/method/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/method/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/method/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch03/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/js/analog-display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/js/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/js/digital-display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/jsx/analog-display.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/jsx/clock.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/jsx/digital-display.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-analog-digital/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-es6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-es6/js/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-es6/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-es6/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-es6/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-es6/jsx/clock.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock-es6/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock/js/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock/jsx/clock.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/clock/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch04/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/did-mount/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/did-mount/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/did-mount/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/did-mount/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/did-mount/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/did-mount/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/did-mount/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/did-mount/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/js/logger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/jsx/logger.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/logger/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/note/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/note/js/note.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/note/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/note/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/note/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/note/jsx/note.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/note/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/js/users.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/jsx/users.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch05/users/real-user-data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/css/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/js/mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/js/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/jsx/add-sub.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/add-sub/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/button/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/button/js/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/button/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/button/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/button/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/button/jsx/button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/button/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-capture/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-capture/js/mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-capture/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-capture/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-capture/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-capture/jsx/mouse.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-capture/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-event/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-event/js/mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-event/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-event/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-event/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-event/jsx/mouse.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse-event/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse/js/mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse/jsx/mouse.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/mouse/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/js/click-counter-button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/js/counter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/jsx/click-counter-button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/jsx/counter.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-parent/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/js/click-counter-button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/jsx/click-counter-button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick-props/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/onclick/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/radio/css/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/radio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/radio/js/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/radio/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/radio/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/radio/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/radio/jsx/radio.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/radio/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/js/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/js/slider-buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/js/slider-value.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/js/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/jsx/slider-buttons.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch06/slider/jsx/slider-value.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/account/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/elements/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/email/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/email/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/email/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/email/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/email/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/email/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/email/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/email/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch07/uncontrolled/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/images/azat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/children/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/js/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/jsx/button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/default-props/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/js/elements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/js/load-website.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/jsx/elements.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/jsx/load-website.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/hi-order/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/js/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/js/prop-types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/jsx/button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch08/prop-types/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu-jsx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu-jsx/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu-jsx/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu-jsx/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu-jsx/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu-jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch09/menu/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch10/tooltip/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch10/tooltip/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch10/tooltip/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch10/tooltip/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch10/tooltip/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch10/tooltip/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch10/tooltip/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch11/timer/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch11/timer/flute_c_long_01.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch11/timer/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch11/timer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch11/timer/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch11/timer/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch11/timer/timer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch11/timer/timer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/jsx/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/webpack.dev-cli.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack-lint-flow/webpack.dev.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/jsx/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/webpack.dev-cli.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/email-webpack/webpack.dev.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch12/npm-script-hooks/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/jsx/about.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/jsx/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/jsx/contact.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/jsx/login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/jsx/post.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/jsx/posts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/backbone-router/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/naive-router/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/naive-router/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/naive-router/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/naive-router/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/naive-router/jsx/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/naive-router/jsx/router.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/naive-router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/naive-router/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/jsx/about.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/jsx/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/jsx/contact.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/jsx/login.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/jsx/post.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/jsx/posts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch13/router/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/build/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/build/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/Avatar-Teaser-Poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/Avengers_Age_of_Ultron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/Dark_knight_rises_poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/John_carter_poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/MV5BMjIwNTA1MDA2Ml5BMl5BanBnXkFtZTgwNzIzMTA5NDE@._V1_SX640_SY720_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/On_Stranger_Tides_Poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/Pirates_AWE_Poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/Spider-Man_3,_International_Poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/Tangled_poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/images/harry-potter-and-the-half-blood-prince.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/components/App/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/components/App/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/components/Movie/movie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/components/Movie/movie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/components/Movies/movies.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/components/Movies/movies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/modules/movies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/movies.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/src/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch14/redux-netflix/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/Avatar-Teaser-Poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/Avengers_Age_of_Ultron.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/Dark_knight_rises_poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/John_carter_poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/MV5BMjIwNTA1MDA2Ml5BMl5BanBnXkFtZTgwNzIzMTA5NDE@._V1_SX640_SY720_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/On_Stranger_Tides_Poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/Pirates_AWE_Poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/Spider-Man_3,_International_Poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/Tangled_poster.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/images/harry-potter-and-the-half-blood-prince.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/public/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/build/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/components/App/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/components/App/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/components/Movie/movie.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/components/Movie/movie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/components/Movies/movies.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/components/Movies/movies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/modules/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/modules/movies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/client/routes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/server/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/server/movies.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/server/schema.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch15/redux-graphql-netflix/webpack.server.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/generate-password/__tests__/generate-password.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/generate-password/generate-password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/generate-password/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/jest/__tests__/generate-password.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/jest/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/jest/generate-password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/jest/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/jest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/jest/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/__tests__/generate-password.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/__tests__/password.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/dist/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/dist/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/js/generate-password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/js/rules.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/jsx/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/jsx/password-generate.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/jsx/password-info.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/jsx/password-input.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/jsx/password-visibility.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/jsx/password.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/password/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/testutils/__tests__/render-props.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/testutils/__tests__/scry-div.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch16/testutils/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/client/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/components/board.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/components/footer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/components/header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/public/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/public/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/public/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/public/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/public/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/public/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/views/index.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/message-board/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/node/email.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/node/email.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/node/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/node/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/react-express/components/about.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/react-express/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/react-express/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch17/react-express/views/about.hbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/images/expressapiref-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/images/fullstack-cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/images/practicalnode-cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/images/proexpress-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/images/reactquickly-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/jsx/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/jsx/cart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/jsx/checkout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/jsx/modal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/jsx/product.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile-updated/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/images/expressapiref-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/images/fullstack-cover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/images/practicalnode-cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/images/proexpress-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/images/reactquickly-cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/js/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/js/bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/jsx/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/jsx/cart.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/jsx/checkout.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/jsx/modal.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/jsx/product.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch18/nile/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/__tests__/autocomplete.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/public/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/public/js/app.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/rooms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/src/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/src/autocomplete.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/views/index.handlebars" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/ch20/autocomplete/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bootstrap-3.3.5-dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react-bootstrap/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react-bootstrap/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react-bootstrap/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react-bootstrap/react-bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react-bootstrap/react-bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react-bootstrap/react-bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/PATENTS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/react-with-addons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/react-with-addons.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/react/react.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/reflux/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/reflux/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/reflux/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/reflux/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/reflux/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/reflux/dist/reflux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/bower_components/reflux/dist/reflux.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/build/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/build/react-dom.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/build/react-with-addons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/build/react-with-addons.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/build/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/build/react.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-click-counter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-commonjs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-commonjs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-commonjs/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-commonjs/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-jsx-external/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-jsx-external/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-jsx-harmony/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-jsx-precompile/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-jsx-precompile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic-jsx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/basic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/jquery-bootstrap/css/example.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/jquery-bootstrap/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/jquery-bootstrap/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/jquery-mobile/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/jquery-mobile/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/jquery-mobile/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/quadratic/example.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/quadratic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/shared/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/transitions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/libs/react-0.14.2/examples/transitions/transition.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/bootstrap4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-js-world/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-js-world/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-js-world/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-js-world/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-world-class/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-world-class/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-world-class/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-world-class/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-world-nested/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-world-nested/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch02-es5/hello-world-nested/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-js-world-jsx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-js-world-jsx/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-js-world-jsx/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-js-world-jsx/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-js-world-jsx/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-class-jsx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-class-jsx/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-class-jsx/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-class-jsx/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-class-jsx/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-jsx/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-jsx/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-jsx/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-jsx/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world-jsx/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/hello-world/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/method/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/method/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/method/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/method/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/method/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch03-es5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/js/analog-display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/js/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/js/digital-display.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/js/digitalDisplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/js/timedisplay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/jsx/analog-display.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/jsx/clock.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/jsx/digital-display.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock-analog-digital/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock/js/clock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock/jsx/clock.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/clock/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch04-es5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/did-mount/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/did-mount/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/did-mount/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/did-mount/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/did-mount/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/did-mount/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/did-mount/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/did-mount/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/logger/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/logger/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/logger/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/logger/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/logger/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/logger/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/logger/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/logger/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch05-es5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/css/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/js/mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/js/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/jsx/add-sub.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/add-sub/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/button/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/button/js/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/button/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/button/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/button/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/button/jsx/button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/button/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse-event/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse-event/js/mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse-event/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse-event/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse-event/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse-event/jsx/mouse.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse-event/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse/js/mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse/jsx/mouse.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/mouse/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-parent/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick-props/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/onclick/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/radio/css/radio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/radio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/radio/js/radio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/radio/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/radio/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/radio/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/radio/jsx/radio.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/radio/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-bg_flat_75_ffffff_40x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-bg_glass_65_ffffff_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/js/jquery-1.10.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/js/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/js/slider-buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/js/slider-value.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/js/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/jsx/slider-buttons.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch06-es5/slider/jsx/slider-value.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/account/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/elements/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/email/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/email/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/email/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/email/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/email/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/email/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/email/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/email/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch07-es5/uncontrolled/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/children/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/children/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/children/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/children/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/children/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/default-props/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/default-props/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/default-props/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/default-props/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/default-props/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/mixins/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/mixins/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/mixins/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/mixins/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/mixins/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/mixins/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/prop-types/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/prop-types/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/prop-types/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/prop-types/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/prop-types/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/tooltip-logger/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/tooltip-logger/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/tooltip-logger/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/tooltip-logger/logger.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/tooltip-logger/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/tooltip-logger/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch08-es5/tooltip-logger/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/es6/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/es6/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/es6/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/es6/src/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/es6/webpack.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/router/History.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/router/ReactRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/router/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/router/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/router/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/router/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/router/react-router-active-component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/router/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/stateless/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/stateless/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/stateless/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/stateless/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/stateless/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/index-es6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/jquery.ziptastic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch11-old/zip/spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch13-es5/router/History.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch13-es5/router/ReactRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch13-es5/router/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch13-es5/router/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch13-es5/router/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch13-es5/router/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch13-es5/router/react-router-active-component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch13-es5/router/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/jest/__tests__/generate-password.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/jest/bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/jest/generate-password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/jest/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/jest/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/jest/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/__tests__/generate-password.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/__tests__/password.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/js/generate-password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/js/password.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/js/password.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/js/react-with-addons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/js/script.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/password.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/ch15-es5/password/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/.meteor/.finished-upgraders" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/.meteor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/.meteor/.id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/.meteor/packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/.meteor/platforms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/.meteor/release" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/.meteor/versions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/chat-meteor.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/chat-meteor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/chat-meteor.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/chat-meteor/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/dateTime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/dateTime.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/hello-js-world-jquery/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/hello-js-world-jquery/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/hello-world-jquery/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/hello-world-jquery/js/jquery-2.1.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/hello-world-jquery/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/hello-world-jquery/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/imperative-declarative/nested-value.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/menu-if-else/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/menu-if-else/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/menu-if-else/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/menu-if-else/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/menu-if-else/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/menu-if-else/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/nested-no-jsx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/__tests__/autocomplete.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/public/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/rooms.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/src/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/src/autocomplete.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/src/build/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/src/build/autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/autocomplete-reflux-gulp-es5/views/index.handlebars" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/js/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/js/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board-reflux/public/js/reflux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/css/bootstrap-responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/css/bootstrap-responsive.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/js/app.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/js/jquery-1.11.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/js/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/projects/board/public/js/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/properties/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/properties/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/properties/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/properties/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/properties/js/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/react.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/src/main/java/com/timer/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/flute_c_long_01.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/index.android.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/index.ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timer.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timer.xcodeproj/xcshareddata/xcschemes/timer.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timer/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timer/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timer/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timer/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timer/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timer/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timerTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/ios/timerTests/timerTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/timer/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/.flowconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/.watchmanconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/react.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/src/main/java/com/weather/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/forecast.ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/index.android.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/index.ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weather.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weather.xcodeproj/xcshareddata/xcschemes/weather.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weather/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weather/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weather/Base.lproj/LaunchScreen.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weather/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weather/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weather/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weatherTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/ios/weatherTests/weatherTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/response.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/search.ios.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/react-native/weather/weather-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/reflux/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/reflux/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/reflux/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/reflux/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/reflux/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/reflux/reflux.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/.meteor/.finished-upgraders" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/.meteor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/.meteor/.id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/.meteor/packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/.meteor/platforms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/.meteor/release" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/.meteor/versions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/client/lib/rsp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/public/rock-paper-scissors.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/rock-paper-scissors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/rock-paper-scissors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors-es5/rock-paper-scissors.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/.meteor/.finished-upgraders" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/.meteor/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/.meteor/.id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/.meteor/packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/.meteor/platforms" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/.meteor/release" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/.meteor/versions" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/client/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/client/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/client/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/rock-paper-scissors/server/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/state/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/state/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/state/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/state/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/state/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/state/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/JSXTransformer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/js/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/js/content.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/js/react-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/js/react-dom-15.0.2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/jsx/button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/jsx/content.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/jsx/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/logger.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/react-dom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/tooltip-logger (mixin)/script.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd_HighLEV/006961-master/006961-master/spare-parts/userSession.js" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,35 +1118,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Media_Query_1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Media-Query/Media_Query_1.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch01/hello-world/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+            <state relative-caret-position="115">
+              <caret line="7" selection-start-line="6" selection-end-line="7" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AJAX_1.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Basics/JS/AJAX/AJAX_1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-71">
-              <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Grid-Layout_2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_2.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Grid-Layout_1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_1.html">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -62,6 +1144,7 @@
       <list>
         <option value="$PROJECT_DIR$/Basics/CSS/CSS-Media-Query/Media_Query_1.html" />
         <option value="$PROJECT_DIR$/Basics/JS/AJAX/AJAX_1.js" />
+        <option value="$PROJECT_DIR$/FrontEnd_HighLEV/My_React/Chap_1/index.html" />
       </list>
     </option>
   </component>
@@ -71,14 +1154,89 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/FrontEnd_HighLEV/Node_React/node_modules" />
+    <handled-path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch03/babel-jsx-test/node_modules" />
+    <handled-path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch12/email-webpack/node_modules" />
+    <handled-path value="$PROJECT_DIR$/FrontEnd_HighLEV/TEMP_SERVER/node_modules" />
+    <handled-path value="$PROJECT_DIR$/FrontEnd_HighLEV/myreact/node_modules" />
+    <handled-path value="$PROJECT_DIR$/FrontEnd_MidLEV/WEBPACK/WP_Project_1/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-5" />
-    <option name="width" value="1855" />
-    <option name="height" value="1085" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Node_React/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch03/babel-jsx-test/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch03/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch04/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch05/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch06/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch07/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch08/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch09/menu-jsx/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch10/tooltip/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch11/timer/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch12/email-webpack-lint-flow/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch12/email-webpack/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch12/npm-script-hooks/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch13/backbone-router/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch13/naive-router/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch13/router/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch14/redux-netflix/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch15/redux-graphql-netflix/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch16/generate-password/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch16/jest/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch16/password/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch16/testutils/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch17/message-board/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch17/node/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch17/react-express/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch18/nile-updated/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch18/nile/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch20/autocomplete/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/libs/react-0.14.2/examples/basic-commonjs/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/ch03-es5/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/ch04-es5/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/ch05-es5/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/ch06-es5/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/ch07-es5/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/ch11-old/es6/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/ch15-es5/jest/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/ch15-es5/password/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/projects/autocomplete-reflux-gulp-es5/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/projects/board-reflux/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/projects/board/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/react-native/timer/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/react-native/weather/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/Samples/spare-parts/rock-paper-scissors/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/TEMP_SERVER/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_HighLEV/myreact/package.json" />
+      <path value="$PROJECT_DIR$/FrontEnd_MidLEV/WEBPACK/WP_Project_1/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/asap/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/core-js/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/encoding/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/fbjs/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/isomorphic-fetch/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/js-tokens/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/loose-envify/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/node-fetch/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/promise/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/prop-types/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/react-dom/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/react/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/setimmediate/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/ua-parser-js/package.json" />
+      <path value="$PROJECT_DIR$/Libraries/node_modules/whatwg-fetch/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -88,7 +1246,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,54 +1256,53 @@
             <path>
               <item name="FrontEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd_HighLEV" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd_HighLEV" type="462c0819:PsiDirectoryNode" />
+              <item name="Samples" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS-Grid-Layout" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd_HighLEV" type="462c0819:PsiDirectoryNode" />
+              <item name="Samples" type="462c0819:PsiDirectoryNode" />
+              <item name="ch01" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS-Media-Query" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd_HighLEV" type="462c0819:PsiDirectoryNode" />
+              <item name="Samples" type="462c0819:PsiDirectoryNode" />
+              <item name="ch01" type="462c0819:PsiDirectoryNode" />
+              <item name="hello-world" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="FrontEnd" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FrontEnd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
-              <item name="Basics" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-              <item name="AJAX" type="462c0819:PsiDirectoryNode" />
+              <item name="FrontEnd_HighLEV" type="462c0819:PsiDirectoryNode" />
+              <item name="Samples" type="462c0819:PsiDirectoryNode" />
+              <item name="ch02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="HbShouldOpenHtmlAsHb" value="enabled" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.meteor.library.was.enabled" value="true" />
+    <property name="js.meteor.project" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -180,16 +1336,20 @@
       <updated>1534304927773</updated>
       <workItem from="1534304931924" duration="2583000" />
       <workItem from="1534349544354" duration="76000" />
+      <workItem from="1534506463551" duration="483000" />
+      <workItem from="1534509270137" duration="660000" />
+      <workItem from="1534511103995" duration="80000" />
+      <workItem from="1534669278023" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2659000" />
+    <option name="totallyTimeSpent" value="3890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32333767" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -215,39 +1375,35 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Media-Query/Media_Query_1.html">
+    <entry file="file://$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch01/hello-world/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2511">
-          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+        <state relative-caret-position="748">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_2.html">
+    <entry file="file://$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch01/hello-world/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_2.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_1.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Media-Query/Media_Query_1.html">
+    <entry file="file://$PROJECT_DIR$/FrontEnd_HighLEV/Study_Data_Samples/ch01/hello-world/index.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd_HighLEV/My_React/Chap_1/index.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Media-Query/Media_Query_1.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_2.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_1.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/JS/AJAX/AJAX_1.js" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Media-Query/Media_Query_1.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_2.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_1.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_2.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Grid-Layout/Grid-Layout_1.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/CSS/CSS-Media-Query/Media_Query_1.html" />
+    <entry file="file://$PROJECT_DIR$/Basics/JS/AJAX/AJAX_1.js" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd_HighLEV/Study_Data_Samples/ch01/hello-world/index.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd_HighLEV/My_React/Chap_1/index.html" />
+    <entry file="file://$PROJECT_DIR$/FrontEnd_HighLEV/Samples/ch01/hello-world/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="81" column="32" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Basics/JS/AJAX/AJAX_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-71">
-          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="115">
+          <caret line="7" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
     </entry>
