@@ -1,0 +1,29 @@
+{
+    "extends": [
+        "airbnb",
+        "eslint:recommended",
+        "plugin:react/recommended",
+        "plugin:import/react"
+      ],
+    "plugins": [
+        "react",
+        "jsx-a11y",
+        "import"
+    ],
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "parserOptions": {
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "react/jsx-one-expression-per-line": 0,
+        "react/destructuring-assignment" : 0,
+        "import/extensions" : 0
+    }
+    
+    
+}

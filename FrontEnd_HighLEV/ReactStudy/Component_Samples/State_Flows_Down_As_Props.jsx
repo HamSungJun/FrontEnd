@@ -1,23 +1,8 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import PropTypes from 'prop-types';
 
 class Me extends React.Component{
 
-  componentDidMount(){
-    this.hungryTimerID = setInterval(()=>{
-      this.decreasingHungry();
-    },1500)
-    this.thirstyTimerID = setInterval(()=>{
-      this.decreasingThirsty();
-    },3000)
-  }
-
-  componentWillUnmount(){
-
-    clearInterval(this.hungryTimerID);
-    clearInterval(this.thirstyTimerID);
-
-  }
   constructor(props){
 
     super(props);
@@ -28,14 +13,40 @@ class Me extends React.Component{
 
   }
 
-  decreasingHungry(){
-    this.setState({
-      hungry : (this.state.hungry-10)
-    })
+  componentDidMount(){
+
+    this.hungryTimerID = setInterval(()=>{
+      this.decreasingHungry();
+    },1500)
+    this.thirstyTimerID = setInterval(()=>{
+      this.decreasingThirsty();
+    },3000)
+
   }
+
+  componentWillUnmount(){
+
+    clearInterval(this.hungryTimerID);
+    clearInterval(this.thirstyTimerID);
+
+  }
+
+
+  decreasingHungry(){
+
+    this.setState((state) => {
+      return {
+        hungry : (state.hungry-30)
+      }
+    })
+    
+  }
+
   decreasingThirsty(){
-    this.setState({
-      thirsty : (this.state.thirsty-50)
+    this.setState((state) => {
+      return {
+        thirsty : (state.thirsty-50)
+      }
     })
   }
 
@@ -48,14 +59,36 @@ class Me extends React.Component{
   }
 }
 
+Me.propTypes = {
+  initialHungry : PropTypes.number,
+  initialThirsty : PropTypes.number
+}
+
+Me.defaultProps = {
+  initialHungry : "Initial Hungry Undefined",
+  initialThirsty : "Initial Thirsty Undefined",
+}
+
 function Monitor(props) {
   return(
     <div>
-      <h1>Hungry : {props.hungry}</h1>
-      <h1>Thirsty : {props.thirsty}</h1>
+      <h1>
+        Hungry : {props.hungry}
+      </h1>
+      <h1>
+        Thirsty : {props.thirsty}
+      </h1>
     </div>
   )
 }
 
-ReactDOM.render(<Me initialHungry={3000} initialThirsty={5000} /> , root);
-  
+Monitor.propTypes = {
+  hungry : PropTypes.number,
+  thirsty : PropTypes.number
+}
+Monitor.defaultProps = {
+  hungry : "Monitor Component's hungry props Undefined",
+  thirsty : "Monitor Component's thirsty props Undefined"
+}
+
+export default Me;
