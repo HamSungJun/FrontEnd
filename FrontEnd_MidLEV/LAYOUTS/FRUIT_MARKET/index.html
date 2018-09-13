@@ -60,6 +60,7 @@
                 height: 100%;
                 align-items: center;
                 justify-content: center;
+                border-right : 2px solid grey;
             }
             .grid-nav__item__title span {
                 font-size: 30px;
@@ -84,6 +85,18 @@
                 padding-left: 5%;
                 border-radius: 2%;
                 border: 2px solid grey;
+            }
+
+            .grid-wrapper{
+                display: grid;
+                grid-template-columns: 310px 1fr;
+            }
+            .grid-wrapper__item{
+               
+            }
+            .grid-wrapper__item:nth-child(1){
+                min-height : calc(100vh - 64.79px);
+                border-right : 2px solid grey;
             }
         }
 
@@ -255,6 +268,15 @@
         </div>
 
     </nav>
+
+    <div class="grid-wrapper">
+        <div class="grid-wrapper__item">
+            
+        </div>
+        <div class="grid-wrapper__item">
+
+        </div>
+    </div>
 </body>
 
 </html>
