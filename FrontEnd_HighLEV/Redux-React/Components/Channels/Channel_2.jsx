@@ -1,17 +1,11 @@
 import React from 'react';
-import PropTypes from "prop-types";
-
 
 class ChannelTwo extends React.Component{
 
-    constructor(props){
-        super(props)
-    }
-
     render() {
         let channelTwoColor = {
-            backgroundColor : this.props.BColor
-        }
+            backgroundColor : 'green'
+        };
         return (
             <div className="Channel-Elements" style={channelTwoColor}>
                 <div className="Channel-Two">
@@ -21,13 +15,5 @@ class ChannelTwo extends React.Component{
         );
     }
 }
-
-ChannelTwo.defaultProps = {
-    BColor : undefined,
-};
-
-ChannelTwo.propTypes = {
-    BColor : PropTypes.string,
-};
 
 export default ChannelTwo;

@@ -1,35 +1,33 @@
 import React from 'react';
-import PropTypes from 'prop-types';
+import { connect } from 'react-redux';
 
 import ChannelOne from '../Channels/Channel_1.jsx';
 import ChannelTwo from '../Channels/Channel_2.jsx';
 import ChannelThree from '../Channels/Channel_3.jsx';
 
-const ChannelWrapper = (props) => {
-
+let ChannelWrapper = (props) => {
+    let WrapperStyle = {
+        backgroundColor : props.channelWrapperColor
+    };
     return(
 
-        <div className="Channel-Wrapper">
+        <div className="Channel-Wrapper" style={WrapperStyle}>
             <h2>Channel-Wrapper Level</h2>
-            <ChannelOne BColor={props.ChannelOne} />
-            <ChannelTwo BColor={props.ChannelTwo} />
-            <ChannelThree BColor={props.ChannelThree} />
+            <ChannelOne  />
+            <ChannelTwo  />
+            <ChannelThree />
 
         </div>
 
     )
 };
 
-ChannelWrapper.defaultProps = {
-    ChannelOne : "Channels.ChannelOne is Undefined",
-    ChannelTwo : "Channels.ChannelTwo is Undefined",
-    ChannelThree : "Channels.ChannelThree is Undefined"
+const mapStateToProps = (state) => {
+    return {
+        channelWrapperColor : state.ChannelWrapper
+    }
 };
 
-ChannelWrapper.propTypes = {
-    ChannelOne : PropTypes.string,
-    ChannelTwo : PropTypes.string,
-    ChannelThree : PropTypes.string
-};
+ChannelWrapper = connect(mapStateToProps,undefined)(ChannelWrapper);
 
 export default ChannelWrapper;

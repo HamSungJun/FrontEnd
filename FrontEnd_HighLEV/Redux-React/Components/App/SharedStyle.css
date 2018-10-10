@@ -9,7 +9,6 @@ html,body{
 .App{
     width : 800px;
     height : 600px;
-    background-color: palegreen;
     display: flex;
     flex-direction: column;
     align-items: center;
