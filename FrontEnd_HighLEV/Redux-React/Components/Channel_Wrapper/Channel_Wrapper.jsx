@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 
 import ChannelOne from '../Channels/Channel_1.jsx';
@@ -20,6 +21,13 @@ let ChannelWrapper = (props) => {
         </div>
 
     )
+};
+
+ChannelWrapper.defaultProps = {
+    channelWrapperColor : undefined
+};
+ChannelWrapper.propTypes = {
+    channelWrapperColor : PropTypes.string
 };
 
 const mapStateToProps = (state) => {

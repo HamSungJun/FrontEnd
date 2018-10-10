@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 
 import ChannelWrapper from '../Channel_Wrapper/Channel_Wrapper.jsx';
@@ -30,6 +31,18 @@ class App extends React.Component{
         )
     }
 }
+
+App.defaultProps = {
+    toggleChannelOne : undefined,
+    toggleChannelThree : undefined,
+    channelAppColor : undefined
+};
+
+App.propTypes = {
+    toggleChannelOne : PropTypes.func,
+    toggleChannelThree : PropTypes.func,
+    channelAppColor : PropTypes.string
+};
 
 const mapStateToProps = (state) => {
     return {
