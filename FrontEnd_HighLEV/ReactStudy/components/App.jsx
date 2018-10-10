@@ -64,8 +64,8 @@ const Topics = ({match}) => (
       <li><Link to={`${match.url}/props-v-state`}>Props v state</Link></li>
     </ul>
 
-    <Route path={`${match.url}/:topicid`} component={Topic}/>
-    <Route exact path={match.url} render={()=>{<h3>plz select a topic</h3>}}/>
+    <Route path={`${match.url}/:topicid`} component={Topic} />
+    <Route exact path={match.url} render={()=>{<h3>plz select a topic</h3>}} />
   </div>
 )
 

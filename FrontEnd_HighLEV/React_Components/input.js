@@ -1,17 +1,19 @@
+import React from 'react';
+
 class LiveInput extends React.Component{
 
     constructor(props){
-      super(props)
+      super(props);
       this.state = {
-        userinput : ""
-      }
+        userInput : ""
+      };
       this.userInputChange = this.userInputChange.bind(this)
     }
-  
+
     userInputChange(event){
       console.log(event.target.value);
       this.setState({
-        userinput : event.target.value
+        userInput : event.target.value
       })
     }
     render(){
